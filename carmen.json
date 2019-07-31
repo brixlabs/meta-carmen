@@ -1,0 +1,147 @@
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Carmen",
+    "disambiguatingDescription": "Carmen chez tel ou tel diffuseur",
+    "description": "TODO",
+    "startDate": "2020-02-29T19:30",
+    "endDate": "TODO",
+    "doorTime": "",
+    "duration": "",
+    "inLanguage": "fr",
+    "workFeatured": {
+      "@type": "CreativeWork",
+      "name": "Carmen",
+      "author": {
+        "@type": "Person",
+        "image": "TODO",
+        "name": "Georges Bizet",
+        "sameAs": [
+          "https://www.operademontreal.com/compositeurs/georges-bizet",
+          "https://fr.wikipedia.org/wiki/Georges_Bizet",
+          "https://www.wikidata.org/wiki/Q56158"
+        ],
+        "identifier": [
+          "http://www.isni.org/isni/0000000121204254",
+          "https://www.wikidata.org/wiki/Q56158",
+          "https://musicbrainz.org/artist/9bd20e6a-b41d-4983-a5b6-c0ff849fa235",
+          "https://viaf.org/viaf/10032551/",
+          "https://www.imdb.com/name/nm0005964/"
+        ]
+      },
+      "sameAs": "https://fr.wikipedia.org/wiki/Carmen_(op%C3%A9ra)",
+      "identifier": [
+        "https://www.wikidata.org/wiki/Q185968",
+        "https://musicbrainz.org/work/45efd8f4-4c40-4145-9e5c-4d11ed7babde",
+        "https://catalogue.bnf.fr/ark:/12148/cb12241834c",
+        "https://viaf.org/viaf/173848302/"
+      ]
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name" : "Opéra de Montréal",
+      "url": "https://www.operademontreal.com",
+      "contactPoint" : [{
+        "@type" : "ContactPoint",
+        "telephone" : "+1-877-285-2222",
+        "contactType" : "customer service"
+      }],
+      "sameAs" : [
+        "https://www.facebook.com/pages/Op%C3%A9ra-de-Montr%C3%A9al/23275515418",
+        "https://twitter.com/operademontreal",
+        "https://www.youtube.com/user/OperadeMtl",
+        "https://instagram.com/operademontreal",
+        "https://fr.wikipedia.org/wiki/Op%C3%A9ra_de_Montr%C3%A9al"
+      ],
+      "identifier": "https://www.wikidata.org/wiki/Q2547963"
+    },
+    "location": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "TODO ville",
+        "addressRegion": "QC",
+        "postalCode": "TODO",
+        "streetAddress": "TODO"
+      },
+      "name": "TODO no du diffuseur",
+      "geo": {
+        "type": "http://schema.org/GeoCoordinates",
+        "latitude": "TODO",
+        "longitude": "TODO"
+      },
+      "sameAs": [
+        "TODO site web",
+        "TODO wikipedia",
+        "TODO wikidata",
+        "TODO Facebook, etc."
+      ],
+      "identifier": "TODO"
+    },
+    "image": [
+      "TODO",
+      "TODO"
+    ],
+    "audience": "Grand public",
+    "composer": {
+      "@type": "Person",
+      "image": "TODO",
+      "name": "Georges Bizet",
+      "description": "Georges Bizet entre au Conservatoire de Paris alors qu’il n’a pas encore 10 ans et, à tout juste 17 ans, il compose sa Symphonie en ut majeur. En 1857, son opérette Le docteur Miracle lui vaut un premier prix ex-aequo lors d’un concours offert par Jacques Offenbach et il remporte aussi le Prix de Rome. Grâce à cette bourse, il étudie trois ans à Rome pendant lesquels il se perfectionne et produit diverses œuvres dont Don Procopio. De retour à Paris, il compose deux opéras : Les pêcheurs de perles (1863) et La jolie fille de Perth (1867). En 1872, il crée une œuvre bien connue, L’Arlésienne (à l’origine une musique de scène destinée à une pièce de théâtre), et un opéra romantique, Djamileh. Carmen (1875), qui reçoit d’abord un accueil mitigé, devient très vite l’une des œuvres les plus appréciées du répertoire opératique. Toutefois, Bizet ne vivra pas assez longtemps pour en connaître le succès puisqu’il mourut quelques mois après les premières représentations.",
+      "sameAs": [
+        "https://www.operademontreal.com/compositeurs/georges-bizet",
+        "https://fr.wikipedia.org/wiki/Georges_Bizet",
+        "https://www.wikidata.org/wiki/Q56158"
+      ],
+      "identifier": [
+        "http://www.isni.org/isni/0000000121204254",
+        "https://www.wikidata.org/wiki/Q56158",
+        "https://musicbrainz.org/artist/9bd20e6a-b41d-4983-a5b6-c0ff849fa235",
+        "https://viaf.org/viaf/10032551/",
+        "https://www.imdb.com/name/nm0005964/"
+      ]
+    },
+    "director": {
+      "@type": "Person",
+      "image": "TODO",
+      "name": "Charles Binamé",
+      "url": "https://www.operademontreal.com/metteurs-en-scene/charles-biname",
+      "description": "Charles Binamé est un cinéaste maintes fois primé qui a signé autant d’œuvres personnelles –Eldorado, Le cœur au poing-, que de films et de séries grand public -Blanche, Un homme et son péché, Maurice Richard-. Sa curiosité et son goût du risque pour les chemins de traverse l’ont par ailleurs conduit à porter son regard vers d’autres parcours d’artistes avec des documentaires sur Borduas, Pierre Gauvreau, Gilles Carle- tout autant qu’à accepter d’imaginer un décor pour le personnage de Bérénice dans L’avalée des avalés de Réjean Ducharme. Son goût pour la musique l’a amené au théâtre Maisonneuve, avec la mise en scène du spectacle annuel Grande première des futures étoiles pour la Fondation de la Place des Arts qui a eu lieu le 2 juin 2015; plus récemment, il a répondu avec bonheur à l’invitation de l’Opéra de Montréal de participer à la soirée Librettistes d’un soir, avec les étudiants de l’Atelier d’art lyrique.",
+      "sameAs": [
+        "https://fr.wikipedia.org/wiki/Charles_Binam%C3%A9"
+      ],
+      "identifier": [
+        "https://www.imdb.com/name/nm0082748/",
+        "https://www.wikidata.org/wiki/Q127599",
+        "https://viaf.org/viaf/105800954",
+        "http://www.isni.org/isni/0000000075894417",
+        "https://catalogue.bnf.fr/ark:/12148/cb166570133"
+      ]
+    },
+    "performer": [
+      {
+        "@type": "Person",
+        "image": "https://media.quebecspectacles.com/image/1554749966440.jpg",
+        "name": "A BOOGIE WIT DA HOODIE"
+      }
+    ],
+    "actor": {},
+    "offers": {
+      "@type": "Offer",
+      "availability": "http://schema.org/InStock",
+      "url": "TODO URL du système de billetterie",
+      "availabilityStarts": "TODO date de mise en vente",
+      "availabilityEnds": "TODO date de fin de vente",
+      "price": 99.99,
+      "priceCurrency": "CAD",
+      "name": "TODO (Entrée générale?)",
+      "description": "TODO (nécessaire?)",
+      "availableAtOrFrom": {
+        "@type": "Place",
+        "name": "TODO nom du diffuseur",
+        "telephone": "TODO numéro de téléphone"
+      }
+    },
+  }
+]
