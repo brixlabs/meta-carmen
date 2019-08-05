@@ -47,14 +47,16 @@
     },
     "organizer": {
       "@type": "Organization",
-      "name" : "Opéra de Montréal",
+      "name": "Opéra de Montréal",
       "url": "https://www.operademontreal.com",
-      "contactPoint" : [{
-        "@type" : "ContactPoint",
-        "telephone" : "+1-877-285-2222",
-        "contactType" : "customer service"
-      }],
-      "sameAs" : [
+      "contactPoint": [
+        {
+          "@type": "ContactPoint",
+          "telephone": "+1-877-285-2222",
+          "contactType": "customer service"
+        }
+      ],
+      "sameAs": [
         "https://www.facebook.com/pages/Op%C3%A9ra-de-Montr%C3%A9al/23275515418",
         "https://twitter.com/operademontreal",
         "https://www.youtube.com/user/OperadeMtl",
@@ -87,9 +89,9 @@
         "https://fr.wikipedia.org/wiki/Salle_Desjardins-Telus"
       ],
       "identifier": [
-          "https://www.wikidata.org/wiki/Q12163100",
-          "https://www.songkick.com/venues/104990"
-        ]
+        "https://www.wikidata.org/wiki/Q12163100",
+        "https://www.songkick.com/venues/104990"
+      ]
     },
     "image": "https://www.operademontreal.com/sites/default/files/styles/full_width/public/programmation/carmen_1800x900.png?itok=iomkqi-J",
     "audience": "Grand public",
@@ -128,14 +130,130 @@
         "https://catalogue.bnf.fr/ark:/12148/cb166570133"
       ]
     },
-    "performer": {},
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "Krista de Silva",
+        "description": "Krista de Silva a chanté avec l’opéra de Calgary (Ballad of Baby Doe, What Brought Us Here), avec l’opéra d’Edmonton (La traviata) ainsi qu’avec l’orchestre symphonique de Regina (Candide). Elle est mieux connue du public québécois en tant que Sadia dans la version opératique de Starmania qui fut présentée à l’Opéra de Québec et à l’Opéra de Montréal. D’autres rôles incluent Concepción (L’heure espagnole), Idamante (Idomeneo), Didon (Didon et Énée) et Mignon (Mignon). Dernière présence à l’OdM : Starmania (2009)",
+        "sameAs": [
+          "http://www.kristadesilva.com/",
+          "https://www.facebook.com/krista.desilva.9?__tn__=lC-R&eid=ARCgfK50gMSO2CECrsIP7pV529nLoxvmFv4rP312YP3mW0wxisJPIHxGU5PfylH4Gl4X7aBs-XsjZHnb&hc_ref=ARQ2BXowy7gpywgsUTjBVwSrGkl5Gl5y6oSNVb2fEIFL1MnfZIHO5Xn44l5_Im3kKIc&__xts__%5B0%5D=68.ARCjy-MJ_z8sNty02Jn7L_LsM2Ktz_Uz_XdsFxRdV9JS8lNMwvzBCD1eGv8-vOhjaPbnH3fh6XF8tuWvvNDKTy5DqdmouaEyF9t2Gn1_leTh3Kg24fsYAej7p3FH6udFc7BYVtmgkM1pPc5kBq67HHcnS9uo9gNVSznNzXx6CBdP3giu9ZS-QLU1LWG3RrFb4XzE36EpixpOr9NX9HYIA4mlJcTUyNBKLrio5aHyLdUDkjItYj2p1i0tPnth0jDfguIw6z9iXFTsM_feVOiGSIlh6O-geoCL0sKfH7Doh6pNQRc1Do6Gym0gvO8e8tqwwaIuJictGoA9Q1V0CVRVBqFpBUBrMAL1heO6qjFSfnkBmnEAFxhw1NDJYTpMb9hTR9oZGWGIEAvXTUo82Xbcq8ssGG7dd_c9Ou1eeeT4jArbDia_vA_6DnNf8R-mOHA51mG2lTk7p5ND5BBCbwNw"
+        ]
+      },
+      {
+        "@type": "Person",
+        "name": "Antoine Bélanger",
+        "description": "Antoine Bélanger est un des jeunes ténors parmi les plus en vue au Canada. Il a déjà chanté un nombre impressionnant de rôles en Europe, aux États-Unis et au Canada avec l’Opéra de Montréal, l’Opéra de Québec, l’Opéra Lyra d’Ottawa, l’Opéra de Calgary, l’Opéra de Vancouver et l’Opéra de Saskatoon. Son répertoire comprend : Faust, Werther, Alfredo (La traviata), Rodolfo (La bohème), Pinkerton (Madama Butterfly), Roméo (Roméo et Juliette) et Rinuccion (Gianni Schicchi). Dernière présence à l’OdM : Dialogues des carmélites (2017)",
+        "sameAs": [
+          "https://www.agencegoodwin.com/artistes/charles-biname"
+        ]
+      },
+      {
+        "@type": "Person",
+        "name": "Christopher Dunham",
+        "description": "Christopher Dunham a captivé l’attention du public partout au Canada et aussi loin que sur la côte Adriatique de l’Italie. Il a notamment chanté les rôles suivants : Figaro (Il barbiere di Siviglia), Mercutio (Roméo et Juliette), Don Giovanni, Eisenstein (Die Fledermaus), Dandini (La cenerentola), Schaunard et Marcello (La bohème) et Almaviva (Le nozze di Figaro). Il a récemment été soliste dans le Messie de Handel avec l’Orchestre de chambre McGill et a interprété le rôle d’Argante (Rinaldo) au Pacific Opera Victoria. Dernière présence à l’OdM : La bohème (2017)"
+      },
+      {
+        "@type": "Person",
+        "name": "France Bellemare",
+        "description": "C’est le Concours musical international de Montréal qui a révélé au public cette soprano pleine d’avenir. Elle a depuis interprété un certain nombre de rôles à l’Opéra de Montréal, notamment celui de Rose (Lakmé), d’Anna (Nabucco), de Madeleine (Silent Night), de la Confidente (Elektra) ainsi que celui de la Mère (Another Brick In The Wall). Elle a fait ses débuts au Metropolitan Opera en interprétant Crobyle (Thaїs). On l’entendra à nouveau ici au cours de la prochaine saison dans le rôle d’Elle (La voix humaine). Dernière présence à l’OdM : La bohème (2017)"
+      },
+      {
+        "@type": "Person",
+        "name": "Pascale Spinney",
+        "description": "On a pu entendre Pascale Spinney dans le rôle de Kate Pinkerton (Madama Butterfly) à l’Opéra de Montréal et dans ceux de Stéphano et de Gertrude (Roméo et Juliette) avec les Jeunesses Musicales Canada. Plus récemment, elle a interprété Hänsel (Hänsel und Gretel), Cherubino (Le nozze di Figaro) au Vancouver Opera, une Novice (Suor Angelica) et le Garçon de cuisine (Rusalka) à l’Academy of Vocal Arts Opera Theatre de Philadelphie. Dernière présence à l’OdM : Madama Butterfly (2015)"
+      },
+      {
+        "@type": "Person",
+        "name": "Magali Simard-Galdès",
+        "description": "Reconnue pour son timbre de voix chatoyant, sa musicalité raffinée et sa présence sur scène magnétique, elle a campé, au cours de ces dernières saisons, les rôles suivants : Nicette (Le pré aux clercs) au Wexford Festival Opera, Sœur Constance (Dialogues des carmélites) à l’Opéra de Montréal, Roxanne (Cyrano), Gilda (Rigoletto) à l’Opera Carolina et Sophie (Werther) à l’Opéra de Québec. La saison prochaine, elle fera un retour à l’Opéra de Montréal pour chanter Agnes (Written on Skin). Dernière présence à l’OdM : Dialogues des carmélites (2017)"
+      },
+      {
+        "@type": "Person",
+        "name": "Cesar Naassy",
+        "description": "Cesar Naassy a fait ses débuts dans le rôle de Don Alfonso (Cosi fan tutte) au Conservatoire libanais, puis dans celui de Dulcamara (L’elisir d’amore) à l’Université Antonine. Parmi ses récentes prestations figurent le rôle de Fiorello (Il barbiere di Siviglia) avec l’Orchestre philharmonique du Liban, celui du Roi d’Écosse (Ariodante) et celui de Raimondo (Lucia di Lammermoor) avec Opera McGill. Il retournera sous peu à l’Orchestre philharmonique du Liban pour chanter Antonio (Le nozze di Figaro). Débuts à l’OdM"
+      },
+      {
+        "@type": "Person",
+        "name": "Alexandre Sylvestre",
+        "description": "Alexandre Sylvestre a interprété les rôles du Docteur Bartolo (Il barbiere di Siviglia) à l’Opéra de Saskatoon, de Dom Fernand (Léonore, ou l’amour conjugal) à l’Opera Lafayette de Washington et de Timur (Turandot) à l’Opéra de Calgary. Parmi ses plus récentes prestations à l’Opéra de Montréal, citons le rôle de Colline (La bohème) et celui de Capulet (Roméo et Juliette) qu’elle a également chanté à l’Opéra de Calgary. Dernière présence à l’OdM : Roméo et Juliette (2018)",
+        "identifier": [
+          "http://www.isni.org/isni/0000000461791213"
+        ]
+      },
+      {
+        "@type": "Person",
+        "name": "Dominique Côté",
+        "description": "Reconnu pour le timbre chaleureux de sa voix, sa présence sur scène et ses aptitudes de comédien, Dominique Côté poursuit une carrière en Amérique du Nord et en France. Il a récemment chanté le rôle du Comte de Comminges (Le pré aux clercs) au Wexford Festival Opera, de Pausanias (Une éducation manquée), de Pizare (Léonore, ou l’amour conjugal) à l’Opera Lafayette, de la Comtesse Marie-Laure de Tilly (Les Feluettes) à l’Opéra d’Edmonton et du Baron Koffre (Le Roi Carotte) à l’Opéra de Lille. Dernière présence à l’OdM : Lakmé (2013)"
+      },
+      {
+        "@type": "Person",
+        "name": "Éric Thériault",
+        "description": "Ses engagements l’ont amené à chanter les rôles suivants : Alfred (Die Fledermaus), Bobinet (La vie parisienne), Malcolm (Macbeth) avec l’Opéra de Québec, Alfredo (La traviata), Canio (Pagliacci) et Radamès (Aїda) avec Opéra Immédiat. Son vaste répertoire comprend aussi la création, en première mondiale, du rôle de Gnyphos (Young Caesar), la création nord-américaine de Jauchze, Jubilier und Singe de Telemann et un concert Bach To Tango avec l’ensemble Quartango (qui lui a valu un prix Opus). Débuts à l’OdM"
+      },
+      {
+        "@type": "Person",
+        "name": "Alain Trudel",
+        "description": "Salué par La Presse pour son immense talent de chef d’orchestre, de musicien et d’interprète, Alain Trudel occupe le poste de directeur musical à la fois à l’Orchestre symphonique de Laval et au Toledo Symphony Orchestra. Chef principal des Concerts pour les jeunes et la famille que propose l’orchestre du Centre national des Arts et principal chef invité de l’Orchestre symphonique d’Ottawa, il a dirigé les plus grands orchestres au Canada, au Royaume-Uni, aux États-Unis, en Suède, au Brésil, en Italie, en Russie, au Japon, à Hong Kong, en Malaisie et en Amérique latine. Dernière présence à l’OdM : Another Brick In The Wall – The Opera (2017) /",
+        "identifier": [
+          "http://www.isni.org/0000+0001+1443+5900",
+          "https://www.wikidata.org/wiki/Q2830335"
+        ]
+      },
+      {
+        "@type": "Person",
+        "name": "Charlotte Ménard",
+        "description": "Charlotte Ménard travaille principalement en théâtre à titre d’assistante à la mise en scène, metteuse en scène, directrice de production et directrice de tournée, notamment pour Transthéâtre, ESPACE GO, Théâtre À tour de Rôle, L’Activité, Théâtre La Licorne ainsi que pour le Festival TransAmériques. Elle est adjointe à la direction générale chez Les Productions HÔTEL-MOTEL depuis 2012 et directrice de tournée pour Ex Machina depuis 2013. Elle a collaboré avec l’Opéra de Montréal sur les productions de Nelligan, Elektra et Otello. Dernière présence l’OdM : Champion (2019)"
+      },
+      {
+        "@type": "Person",
+        "name": "Noëlle-Émilie Desbiens",
+        "description": "Noëlle-Émilie Desbiens a commencé la danse à l’âge de cinq ans. Elle a ensuite poursuivi sa formation à l’École supérieure de théâtre musical, à Montréal, où elle a pratiqué le chant, le théâtre et la danse. Elle a participé à plusieurs spectacles, à la télévision et sur scène, notamment à l’Opéra du Caire. Elle a fréquemment travaillé en tant que chorégraphe, consultante et danseuse pour différentes productions de l’Opéra de Montréal. Dernière présence à l’OdM : Champion (2019)"
+      },
+      {
+        "@type": "Person",
+        "name": "Olivier Landreville",
+        "description": "Olivier Landreville a continué à exercer ses talents sur la scène montréalaise en réalisant les décors de spectacles qui comptent parmi les plus populaires de ces dernières années. Depuis 2001, un certain nombre de ses créations lui ont valu plusieurs nominations au Gala des Masques : Antarktikos, Cheech, Everybody’s WELLES pour tous, Tête première, Le Périmètre et Coma Unplugged. À la télévision, on a pu voir son travail notamment dans 21, Il va y avoir du sport, Tout simplement Clodine ainsi que dans Flash. Dernière présence à l’OdM : La bohème (2017)"
+      },
+      {
+        "@type": "Person",
+        "name": "Dominique Guindon",
+        "description": "Dernière présence à l’OdM : Dialogues des carmélites (2017) / Last OdM appearance: Dialogues des carmélites (2017)"
+      },
+      {
+        "@type": "Person",
+        "name": "Alain Lortie",
+        "description": "Alain Lortie a travaillé, entre autres, avec les artistes suivants : Michel Lemieux, Marie Chouinard, Édouard Lock, Diane Dufresne, Robert Charlebois, Daniel Bélanger, Peter Gabriel, Francis Cabrel, Eros Ramazzotti, Louise Lecavalier, Arturo Brachetti et Les Rockettes du Radio City Musical Hall. Plusieurs fois désigné « Concepteur d’éclairage de l’année » par l’ADISQ, il a également reçu un Masque et un prix Dora Mavor Moore, et a collaboré à Starmania et à Notre-Dame de Paris de Plamondon ainsi qu’à des spectacles du Cirque du Soleil. Dernière présence à l’OdM : Starmania (2009)",
+        "identifier": [
+          "https://www.wikidata.org/wiki/Q2830042"
+        ]
+      },
+      {
+        "@type": "Person",
+        "name": "Jean-François Gagnon",
+        "description": "Jean-François Gagnon est un acteur, concepteur de combats et maître d’armes pour le cinéma et la télévision. Maître en combat membre de Fight Directors Canada, il enseigne dans plusieurs écoles de théâtre de la région de Montréal. Il a collaboré à divers spectacles au Théâtre du Trident, au Rabittown Theatre, au Centre national des Arts, au Théâtre Denise-Pelletier, au Segal Centre et au Centaur Theatre, entre autres. / Dernière presence à l’OdM : Roméo et Juliette (2018)"
+      },
+      {
+        "@type": "Person",
+        "name": "Claude Webster",
+        "description": "Pianiste de formation classique, Claude Webster travaille depuis plus de 25 ans comme coach vocal. En plus d’avoir collaboré à plus de 50 productions à titre de pianiste- répétiteur, il est le chef des chœurs à l’Opéra de Montréal depuis 2007 et a aussi été chef de chant principal à l’Atelier lyrique de l’Opéra de Montréal pendant 20 ans. Il est également enseignant, conférencier et coach professionnel certifié en PNL et en hypnose. Depuis 10 ans, il s’est spécialisé en préparation à la performance. Dernière présence à l’OdM : Champion (2019)",
+        "identifier": [
+          "http://www.isni.org/isni/0000000052185319"
+        ]
+      },
+      {
+        "@type": "Person",
+        "name": "Esther Gonthier",
+        "description": "Esther Gonthier est reconnue comme l’une des pianistes les plus polyvalentes au Canada. Après avoir reçu sa formation à l’Université Laval et à l’Université de Montréal, elle s’est perfectionnée en coaching vocal auprès de Janine Reiss, en France. Depuis, elle poursuit une carrière très active, à la fois comme pianiste-répétitrice, concertiste et chef de chant. Dernière présence à l’OdM : Champion (2019)"
+      }
+    ],
     "offers": {
       "@type": "Offer",
       "availability": "http://schema.org/InStock",
       "url": "https://red.vendini.com/ticket-software.html?t=tix&e=838f63e37129cfe27f5e7fe68b926dc5",
       "availabilityStarts": "2019-01-01T09:00",
       "availabilityEnds": "2020-02-29T19:30",
-      "price": 5.00,
+      "price": 5,
       "priceCurrency": "CAD",
       "name": "Admission générale",
       "description": "Taxes et frais de billetterie en sus.",
@@ -145,6 +263,77 @@
         "telephone": "418-724-0800"
       },
       "validFrom": "2019-01-01T09:00"
-    }
+    },
+    "sponsor": [
+      {
+        "@type": "Organization",
+        "name": "Conseil des Arts et des lettres du Québec",
+        "url": "https://www.calq.gouv.qc.ca/",
+        "identifier": [
+          "https://www.wikidata.org/wiki/Q2993826"
+        ]
+      },
+      {
+        "@type": "Organization",
+        "name": "Conseil des Arts du Canada",
+        "url": "http://www.canadacouncil.ca/",
+        "identifier": [
+          "https://www.wikidata.org/wiki/Q2993809",
+          "http://www.isni.org/0000+0001+2289+6811"
+        ]
+      },
+      {
+        "@type": "Organization",
+        "name": "Conseil des Arts de Montréal",
+        "url": "http://www.artsmontreal.org/",
+        "identifier": [
+          "https://www.wikidata.org/wiki/Q2993823"
+        ]
+      },
+      {
+        "@type": "Organization",
+        "name": "Patrimoine canadien",
+        "url": "http://www.canadianheritage.gc.ca/",
+        "identifier": [
+          "https://www.wikidata.org/wiki/Q1056951",
+          "http://www.isni.org/0000+0001+0322+1296"
+        ]
+      },
+      {
+        "@type": "Organization",
+        "name": "Société de développement des entreprises du Québec",
+        "url": "https://sodec.gouv.qc.ca/",
+        "identifier": [
+          "https://www.wikidata.org/wiki/Q3487934",
+          "http://isni.org/0000+0001+2220+4870"
+        ]
+      },
+      {
+        "@type": "Organization",
+        "name": "Place des Arts",
+        "url": "https://placedesarts.com/fr",
+        "identifier": [
+          "https://www.wikidata.org/wiki/Q1326219",
+          "http://isni.org/0000+0001+1884+8745"
+        ]
+      },
+      {
+        "@type": "Organization",
+        "name": "Quartier des spectacles",
+        "url": "https://www.quartierdesspectacles.com/fr/",
+        "identifier": [
+          "https://www.wikidata.org/wiki/Q3413258"
+        ]
+      },
+      {
+        "@type": "Organization",
+        "name": "Hydro-Québec",
+        "url": "http://www.hydroquebec.com/",
+        "identifier": [
+          "https://www.wikidata.org/wiki/Q167840",
+          "http://www.isni.org/0000+0004+0498+9725"
+        ]
+      }
+    ]
   }
 ]
