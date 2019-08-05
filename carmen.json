@@ -2,41 +2,48 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Carmen",
-    "disambiguatingDescription": "Carmen chez tel ou tel diffuseur",
-    "description": "TODO",
+    "name": "L’Opéra au grand écran: Carmen",
+    "disambiguatingDescription": "Un grand cinéaste signe le plus célèbre des opéras",
+    "description": "« Libre elle est née, libre elle mourra ». Envoûté par Carmen, le brigadier Don José se joint à sa bande de contrebandiers. Le rejet et la jalousie amèneront l’amoureux à commettre l’irréparable...\n\nLe réputé cinéaste Charles Binamé mettra en scène de jeunes et talentueux artistes lyriques canadiens. L'occasion parfaite de redécouvrir ce classique parmi les classiques !",
     "startDate": "2020-02-29T19:30",
-    "endDate": "TODO",
-    "doorTime": "",
-    "duration": "",
+    "endDate": "2020-02-29T22:30",
+    "doorTime": "2020-02-29T19:00",
+    "duration": "P2H46M",
     "inLanguage": "fr",
     "workFeatured": {
       "@type": "CreativeWork",
       "name": "Carmen",
-      "author": {
-        "@type": "Person",
-        "image": "TODO",
-        "name": "Georges Bizet",
-        "sameAs": [
-          "https://www.operademontreal.com/compositeurs/georges-bizet",
-          "https://fr.wikipedia.org/wiki/Georges_Bizet",
-          "https://www.wikidata.org/wiki/Q56158"
-        ],
+      "description": "« Libre elle est née, libre elle mourra ». Envoûté par Carmen, le brigadier Don José se joint à sa bande de contrebandiers. Le rejet et la jalousie amèneront l’amoureux à commettre l’irréparable...\n\nLe réputé cinéaste Charles Binamé mettra en scène de jeunes et talentueux artistes lyriques canadiens. L'occasion parfaite de redécouvrir ce classique parmi les classiques !",
+      "url": "https://www.operademontreal.com/programmation/carmen",
+      "image": "https://www.operademontreal.com/sites/default/files/styles/full_width/public/programmation/carmen_1800x900.png?itok=iomkqi-J",
+      "isBasedOn": {
+        "@type": "CreativeWork",
+        "name": "Carmen",
+        "author": {
+          "@type": "Person",
+          "image": "https://www.operademontreal.com/sites/default/files/styles/mobile/public/composers/bizet_georges.jpg?itok=sViSJxeC",
+          "name": "Georges Bizet",
+          "sameAs": [
+            "https://www.operademontreal.com/compositeurs/georges-bizet",
+            "https://fr.wikipedia.org/wiki/Georges_Bizet",
+            "https://www.wikidata.org/wiki/Q56158"
+          ],
+          "identifier": [
+            "http://www.isni.org/isni/0000000121204254",
+            "https://www.wikidata.org/wiki/Q56158",
+            "https://musicbrainz.org/artist/9bd20e6a-b41d-4983-a5b6-c0ff849fa235",
+            "https://viaf.org/viaf/10032551/",
+            "https://www.imdb.com/name/nm0005964/"
+          ]
+        },
+        "sameAs": "https://fr.wikipedia.org/wiki/Carmen_(op%C3%A9ra)",
         "identifier": [
-          "http://www.isni.org/isni/0000000121204254",
-          "https://www.wikidata.org/wiki/Q56158",
-          "https://musicbrainz.org/artist/9bd20e6a-b41d-4983-a5b6-c0ff849fa235",
-          "https://viaf.org/viaf/10032551/",
-          "https://www.imdb.com/name/nm0005964/"
+          "https://www.wikidata.org/wiki/Q185968",
+          "https://musicbrainz.org/work/45efd8f4-4c40-4145-9e5c-4d11ed7babde",
+          "https://catalogue.bnf.fr/ark:/12148/cb12241834c",
+          "https://viaf.org/viaf/173848302/"
         ]
-      },
-      "sameAs": "https://fr.wikipedia.org/wiki/Carmen_(op%C3%A9ra)",
-      "identifier": [
-        "https://www.wikidata.org/wiki/Q185968",
-        "https://musicbrainz.org/work/45efd8f4-4c40-4145-9e5c-4d11ed7babde",
-        "https://catalogue.bnf.fr/ark:/12148/cb12241834c",
-        "https://viaf.org/viaf/173848302/"
-      ]
+      }
     },
     "organizer": {
       "@type": "Organization",
@@ -60,33 +67,35 @@
       "@type": "Place",
       "address": {
         "@type": "PostalAddress",
-        "addressLocality": "TODO ville",
+        "addressLocality": "Rimouski",
         "addressRegion": "QC",
-        "postalCode": "TODO",
-        "streetAddress": "TODO"
+        "postalCode": "G5L 4B4",
+        "streetAddress": "25, rue Saint-Germain Ouest"
       },
-      "name": "TODO no du diffuseur",
+      "name": "Salle Desjardins-Telus",
       "geo": {
         "type": "http://schema.org/GeoCoordinates",
-        "latitude": "TODO",
-        "longitude": "TODO"
+        "latitude": "-68.5302",
+        "longitude": "48.4511"
       },
+      "url": "https://www.spectart.com/index.php",
       "sameAs": [
-        "TODO site web",
-        "TODO wikipedia",
-        "TODO wikidata",
-        "TODO Facebook, etc."
+        "https://www.facebook.com/spectartrimouski",
+        "https://twitter.com/SpectArt_Riki",
+        "https://www.flickr.com/photos/100652199@N07/",
+        "https://www.youtube.com/user/spectartrimouski",
+        "https://fr.wikipedia.org/wiki/Salle_Desjardins-Telus"
       ],
-      "identifier": "TODO"
+      "identifier": [
+          "https://www.wikidata.org/wiki/Q12163100",
+          "https://www.songkick.com/venues/104990"
+        ]
     },
-    "image": [
-      "TODO",
-      "TODO"
-    ],
+    "image": "https://www.operademontreal.com/sites/default/files/styles/full_width/public/programmation/carmen_1800x900.png?itok=iomkqi-J",
     "audience": "Grand public",
     "composer": {
       "@type": "Person",
-      "image": "TODO",
+      "image": "https://www.operademontreal.com/sites/default/files/styles/mobile/public/composers/bizet_georges.jpg?itok=sViSJxeC",
       "name": "Georges Bizet",
       "description": "Georges Bizet entre au Conservatoire de Paris alors qu’il n’a pas encore 10 ans et, à tout juste 17 ans, il compose sa Symphonie en ut majeur. En 1857, son opérette Le docteur Miracle lui vaut un premier prix ex-aequo lors d’un concours offert par Jacques Offenbach et il remporte aussi le Prix de Rome. Grâce à cette bourse, il étudie trois ans à Rome pendant lesquels il se perfectionne et produit diverses œuvres dont Don Procopio. De retour à Paris, il compose deux opéras : Les pêcheurs de perles (1863) et La jolie fille de Perth (1867). En 1872, il crée une œuvre bien connue, L’Arlésienne (à l’origine une musique de scène destinée à une pièce de théâtre), et un opéra romantique, Djamileh. Carmen (1875), qui reçoit d’abord un accueil mitigé, devient très vite l’une des œuvres les plus appréciées du répertoire opératique. Toutefois, Bizet ne vivra pas assez longtemps pour en connaître le succès puisqu’il mourut quelques mois après les premières représentations.",
       "sameAs": [
@@ -104,7 +113,7 @@
     },
     "director": {
       "@type": "Person",
-      "image": "TODO",
+      "image": "https://www.operademontreal.com/sites/default/files/styles/mobile/public/stagedirectors/biname_charles-credit_lara_biname_3.jpg?itok=GyvAodGa",
       "name": "Charles Binamé",
       "url": "https://www.operademontreal.com/metteurs-en-scene/charles-biname",
       "description": "Charles Binamé est un cinéaste maintes fois primé qui a signé autant d’œuvres personnelles –Eldorado, Le cœur au poing-, que de films et de séries grand public -Blanche, Un homme et son péché, Maurice Richard-. Sa curiosité et son goût du risque pour les chemins de traverse l’ont par ailleurs conduit à porter son regard vers d’autres parcours d’artistes avec des documentaires sur Borduas, Pierre Gauvreau, Gilles Carle- tout autant qu’à accepter d’imaginer un décor pour le personnage de Bérénice dans L’avalée des avalés de Réjean Ducharme. Son goût pour la musique l’a amené au théâtre Maisonneuve, avec la mise en scène du spectacle annuel Grande première des futures étoiles pour la Fondation de la Place des Arts qui a eu lieu le 2 juin 2015; plus récemment, il a répondu avec bonheur à l’invitation de l’Opéra de Montréal de participer à la soirée Librettistes d’un soir, avec les étudiants de l’Atelier d’art lyrique.",
@@ -119,29 +128,23 @@
         "https://catalogue.bnf.fr/ark:/12148/cb166570133"
       ]
     },
-    "performer": [
-      {
-        "@type": "Person",
-        "image": "https://media.quebecspectacles.com/image/1554749966440.jpg",
-        "name": "A BOOGIE WIT DA HOODIE"
-      }
-    ],
-    "actor": {},
+    "performer": {},
     "offers": {
       "@type": "Offer",
       "availability": "http://schema.org/InStock",
-      "url": "TODO URL du système de billetterie",
-      "availabilityStarts": "TODO date de mise en vente",
-      "availabilityEnds": "TODO date de fin de vente",
-      "price": 99.99,
+      "url": "https://red.vendini.com/ticket-software.html?t=tix&e=838f63e37129cfe27f5e7fe68b926dc5",
+      "availabilityStarts": "2019-01-01T09:00",
+      "availabilityEnds": "2020-02-29T19:30",
+      "price": 5.00,
       "priceCurrency": "CAD",
-      "name": "TODO (Entrée générale?)",
-      "description": "TODO (nécessaire?)",
+      "name": "Admission générale",
+      "description": "Taxes et frais de billetterie en sus.",
       "availableAtOrFrom": {
         "@type": "Place",
-        "name": "TODO nom du diffuseur",
-        "telephone": "TODO numéro de téléphone"
-      }
-    },
+        "name": "Salle Desjardins-Telus",
+        "telephone": "418-724-0800"
+      },
+      "validFrom": "2019-01-01T09:00"
+    }
   }
 ]
