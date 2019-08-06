@@ -1,7 +1,8 @@
 [
   {
-    "@context": "https://schema.org",
+    "@context": "http://schema.org",
     "@type": "Event",
+    "@id": "http://www.operademontreal.com/#opera-au-grand-ecran-carmen",
     "name": "L’Opéra au grand écran: Carmen",
     "disambiguatingDescription": "Un grand cinéaste signe le plus célèbre des opéras",
     "description": "« Libre elle est née, libre elle mourra ». Envoûté par Carmen, le brigadier Don José se joint à sa bande de contrebandiers. Le rejet et la jalousie amèneront l’amoureux à commettre l’irréparable...\n\nLe réputé cinéaste Charles Binamé mettra en scène de jeunes et talentueux artistes lyriques canadiens. L'occasion parfaite de redécouvrir ce classique parmi les classiques !",
@@ -43,7 +44,35 @@
           "https://catalogue.bnf.fr/ark:/12148/cb12241834c",
           "https://viaf.org/viaf/173848302/"
         ]
-      }
+      },
+      "comment": [
+        {
+          "@type": "Comment",
+          "author": {
+            "@type": "Person",
+            "name": "Louis Bilodeau, Avant Scène Opéra"
+          },
+          "text": "Sur le plan musical, le plaisir s'avère lui aussi très partagé. Alain Trudel accomplit un excellent travail à la tête de l'Orchestre Métropolitain : énergique, raffinée et d'une belle efficacité dramatique, sa direction constitue un des atouts indéniables de la soirée.",
+          "url": "https://www.asopera.fr/fr/productions/3549-carmen.html"
+        },
+        {
+          "@type": "Comment",
+          "author": {
+            "@type": "Person",
+            "name": "Sophie Jama, Pieuvre.ca"
+          },
+          "text": "Autour de Carmen, le ténor Antoine Bélanger et le baryton Christopher Dunham font de très bons Don José et Escamillo. La voix de soprano de France Bellemare, dans le rôle de Micaëla, est superbe, particulièrement dans le solo qui lui est réservé au début de la deuxième partie. La soprano Krista de Silva est aussi une très belle Carmen et sa voix très agréable.",
+          "url": "http://www.pieuvre.ca/2019/05/05/culturel-musique-opera-carmen/"
+        },
+        {
+          "@type": "Comment",
+          "author": {
+            "@type": "Person",
+            "name": "Spectratrice sur Facebook"
+          },
+          "text": "En offrant à son public: \"Carmen\", le chef d'œuvre de Bizet, souvent présenté dans la Métropole, l'Opéra de Montréal clôture sa saison en beauté et en intensité. En plus des magnifiques performances de toute la troupe, la mise en scène festive de Charles Binamé, les décors, les costumes et les éclairages, contribuent à faire de cette production de qualité un immense succès!"
+        }
+      ]
     },
     "organizer": {
       "@type": "Organization",
